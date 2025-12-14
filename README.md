@@ -1,6 +1,6 @@
 ## Hello, I'm Aisza
 
-<a href="https://www.linkedin.com/in/aisza-adewale-74b576356" target="_blank">Connect with me on LinkedIn</a>
+<a href="https://www.linkedin.com/in/aisza-adewale-74b576356" target="_blank">LinkedIn</a>
 
 I am currently an undergraduate student, with high motivation and passion in cybersecurity.
 
