@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, I'm Aisza
 
-<!--
-**AiszaA/AiszaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/aisza-adewale-74b576356" target="_blank">Connect with me on LinkedIn</a>
 
-Here are some ideas to get you started:
+I am currently an undergraduate student, with high motivation and passion in cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+Throughout my studies in computer science, I developed a strong interest in cyber security, and am eager to delve further into this field.
+
+## Skills
+
+## Projects
